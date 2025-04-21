@@ -3,7 +3,8 @@ uiPort: 8080
 
 discovery:
   sources:
-      scanPaths:                      
+     - name: "test"
+       scanPaths:                      
         - "applications/"
-      recursive: true                 
-      syncInterval: "3m"             
+       recursive: true                 
+       syncInterval: "3m"             
