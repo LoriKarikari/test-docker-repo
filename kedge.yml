@@ -8,4 +8,4 @@ discovery:
        scanPaths:
         - "applications/"
        recursive: true
-       syncInterval: "3m"
+       syncInterval: "1m"
