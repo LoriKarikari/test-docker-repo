@@ -1,5 +1,0 @@
-name: "nginx-app-2"
-path: "."
-composeFiles:
-  - "docker-compose.yml"
-environment: "staging"
