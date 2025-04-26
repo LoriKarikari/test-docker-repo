@@ -2,10 +2,10 @@ uiPort: 8080
 
 discovery:
   sources:
-     - name: "test"
-       repoURL: "https://github.com/LoriKarikari/test-docker-repo"
-       branch: "main"                  
-       scanPaths:
-        - "applications/"
-       recursive: true
-       syncInterval: "1m"
+    #  - name: "test"
+    #    repoURL: "https://github.com/LoriKarikari/test-docker-repo"
+    #    branch: "main"                  
+    #    scanPaths:
+    #     - "applications/"
+    #    recursive: true
+    #    syncInterval: "1m"
