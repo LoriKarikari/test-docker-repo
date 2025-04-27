@@ -1,11 +1,6 @@
-uiPort: 8080
-
-discovery:
-  sources:
-     - name: "test"
-       repoURL: "https://github.com/LoriKarikari/test-docker-repo"
-       branch: "main"                  
-       scanPaths:
-        - "applications/"
-       recursive: true
-       syncInterval: "1m"
+gitRepo:
+  url: https://github.com/LoriKarikari/test-docker-repo.git
+  branch: main
+path: applications/nginx1/docker-compose.yml 
+pollingInterval: "1m"     
+    
