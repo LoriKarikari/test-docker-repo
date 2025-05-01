@@ -1,4 +1,4 @@
-name: random_stuff
+name: my_project
 services:
   web:
     image: nginx:alpine

@@ -1,4 +1,4 @@
-name: test-app-1
+name: random_test
 source:
   repoURL: https://github.com/LoriKarikari/test-docker-repo.git
   branch: main
