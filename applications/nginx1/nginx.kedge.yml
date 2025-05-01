@@ -1,6 +1,0 @@
-name: "nginx-app-1"         
-path: "."                   
-composeFiles:               
-  - "docker-compose.yml"
-environment: "dev"          
-variables: {}               
