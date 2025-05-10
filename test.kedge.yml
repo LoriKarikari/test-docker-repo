@@ -1,7 +1,4 @@
-name: random_test
-source:
-  repoURL: https://github.com/LoriKarikari/test-docker-repo.git
-  branch: main
+sources:
+  - url: https://github.com/LoriKarikari/test-docker-repo.git
+    branch: main
 
-
-    
