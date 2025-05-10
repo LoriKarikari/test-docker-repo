@@ -1,6 +1,6 @@
 - name: my-first-app
   source:
-    - url: https://github.com/LoriKarikari/test-docker-repo.git
+      repoUrl: https://github.com/LoriKarikari/test-docker-repo.git
       branch: main
       composeFile: docker-compose.yml
 
